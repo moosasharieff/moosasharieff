@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **All Public Projects**
 
-- 💬 Ask me about **Python, Flask, Full Stack Web Development, APIs, Selenium, Automation probably any task on the web!**
+- 💬 Ask me about **Python, Flask, Dango Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and probably any task on the web!**
 
 - 📫 Reach out to me on **moosasharieff@myyahoo.com**
 
