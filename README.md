@@ -5,13 +5,9 @@
 
 <img align="right" alt="coding" width="500" height="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 🌱 I’m currently learning [Python and Django Full Stack Web Developer Bootcamp on Udemy](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
-
 - 👯 I’m looking to collaborate on **All Public Projects**
 
 - 💬 Ask me about **Python, Flask, Dango Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and probably any task on the web!**
-
-- 📫 Reach out to me on **moosasharieff@myyahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
